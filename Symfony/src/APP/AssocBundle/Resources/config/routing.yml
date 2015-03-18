@@ -1,3 +1,3 @@
 app_assoc_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: APPAssocBundle:Default:index }
+    path:     /
+    defaults: { _controller: APPAssocBundle:Home:index }
